@@ -9,6 +9,10 @@ A real-time web-based location tracker built using **PHP**, **MySQL**, **JavaScr
 
 ---
 
+![PHP-MySQL-Live-Location-tracking-Google-Map-API](https://github.com/panditprogrammer/PHP-MySQL-Location-Tracking-google-Map-API/blob/main/Screenshot.png "Preview")
+
+---
+
 ## 🔧 OVERVIEW
 
 This project enables live user location tracking and history logging.
